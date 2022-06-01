@@ -1,0 +1,10 @@
+server:
+  # 端口号
+  port: 9528
+spring:
+  servlet:
+    multipart:
+      max-file-size: 500MB
+      max-request-size: 500MB
+# python脚本绝对路径
+shell-file-path: /home/xcpan/pipeline/eval.py

@@ -1,0 +1,7 @@
+com\example\video\service\CommandService.class
+com\example\video\VideoApplication.class
+com\example\video\config\CorsConfigurer.class
+com\example\video\controller\UploadController.class
+com\example\video\service\impl\CommandServiceImpl$1.class
+com\example\video\service\impl\CommandServiceImpl.class
+com\example\video\service\impl\CommandServiceImpl$ReadTask.class
